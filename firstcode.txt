@@ -1,1 +1,3 @@
 helloworld !!!
+take input from user
+add the values
